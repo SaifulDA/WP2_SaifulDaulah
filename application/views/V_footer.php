@@ -1,5 +1,5 @@
 <footer>
- <a href='http://www.RentalBuku.com'>RentalBuku</a>
+ <a href='https://www.tokopedia.com/'>Toko Sepatu Sukses</a>
  </footer>
  </div>
 </body>
